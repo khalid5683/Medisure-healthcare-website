@@ -23,4 +23,4 @@ Users will able to:
 ### Links
 
 - Live Site: [Medisure](https://medisure-healthcare.web.app/)
-- Code: [Github](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-arifulsajib)
+- Code: [Github](https://github.com/arifulsajib/Medisure-healthcare-website)
